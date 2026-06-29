@@ -1,0 +1,6 @@
+This project uses MNIST dataset as a proxy to demonstrate a medical image classification pipeline.
+
+The architecture is designed for extension to real medical datasets such as:
+- Breast cancer imaging datasets
+- CT / MRI scans
+- Histopathology images
